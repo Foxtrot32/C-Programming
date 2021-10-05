@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\TwoPointers\main.c(20,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'int'
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\TwoPointers\main.c(20,9): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 2 has type 'int'
+  TwoPointers.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\TwoPointers\Debug\TwoPointers.exe

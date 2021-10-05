@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\SubStringLeft\main.c(14,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\SubStringLeft\main.c(10,6): warning C4101: 'Length': unreferenced local variable
+  SubStringLeft.vcxproj -> C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\SubStringLeft\Debug\SubStringLeft.exe

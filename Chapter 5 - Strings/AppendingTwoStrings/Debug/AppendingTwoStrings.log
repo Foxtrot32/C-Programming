@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\AppendingTwoStrings\main.c(18,6): warning C4013: 'gets' undefined; assuming extern returning int
+  AppendingTwoStrings.vcxproj -> C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\AppendingTwoStrings\Debug\AppendingTwoStrings.exe

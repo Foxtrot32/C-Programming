@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 8 - File Handling\WritingToFileUsingFWRITE\main.c(22,6): warning C4013: 'gets' undefined; assuming extern returning int
+  WritingToFileUsingFWRITE.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 8 - File Handling\WritingToFileUsingFWRITE\Debug\WritingToFileUsingFWRITE.exe

@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Rohan Gurumurthy\source\repos\GCDRecursion\main.c(35): warning C4715: 'GCD': not all control paths return a value
+  GCDRecursion.vcxproj -> C:\Users\Rohan Gurumurthy\source\repos\GCDRecursion\Debug\GCDRecursion.exe

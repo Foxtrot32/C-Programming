@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 7 - Structures, Unions and Enumerated data types\Union\main.c(21,6): warning C4013: 'gets' undefined; assuming extern returning int
+  Union.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 7 - Structures, Unions and Enumerated data types\Union\Debug\Union.exe

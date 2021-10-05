@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\CountingStringLength\main.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
+  CountingStringLength.vcxproj -> C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\CountingStringLength\Debug\CountingStringLength.exe

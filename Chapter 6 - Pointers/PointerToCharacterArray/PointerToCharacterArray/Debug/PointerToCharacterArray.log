@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\PointerToCharacterArray\PointerToCharacterArray\main.c(9,23): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\PointerToCharacterArray\PointerToCharacterArray\main.c(12,6): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\PointerToCharacterArray\PointerToCharacterArray\main.c(9,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  PointerToCharacterArray.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 6\PointerToCharacterArray\Debug\PointerToCharacterArray.exe

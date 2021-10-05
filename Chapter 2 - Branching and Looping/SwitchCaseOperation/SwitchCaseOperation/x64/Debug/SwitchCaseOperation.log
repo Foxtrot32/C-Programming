@@ -1,0 +1,7 @@
+﻿  main.c
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\SwitchCaseOperation\main.c(7,9): warning C4476: 'printf' : unknown type field character ']' in format specifier
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\SwitchCaseOperation\main.c(8,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\SwitchCaseOperation\main.c(8,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\SwitchCaseOperation\main.c(8,10): message : the missing variadic argument 2 is required by format string '%c'
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\SwitchCaseOperation\main.c(8,10): message : this argument is used as a buffer size
+  SwitchCaseOperation.vcxproj -> E:\Rohan S Gurumurthy\Academics\THIRD SEM\Computer Science\Teaching\Programming\C Progamming\Basic Programs\SwitchCaseOperation\x64\Debug\SwitchCaseOperation.exe

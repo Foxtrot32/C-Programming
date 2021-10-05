@@ -1,0 +1,4 @@
+﻿  main.c
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Programming\C Progamming\Basic Programs\Chapter 2\StarPatternReverseFor\main.c(12,10): warning C4013: 'print' undefined; assuming extern returning int
+main.obj : error LNK2019: unresolved external symbol _print referenced in function _main
+E:\Rohan S Gurumurthy\Academics\THIRD SEM\Programming\C Progamming\Basic Programs\Chapter 2\StarPatternReverseFor\Debug\StarPatternReverseFor.exe : fatal error LNK1120: 1 unresolved externals

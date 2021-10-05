@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 7 - Structures, Unions and Enumerated data types\FunctionToAStructure\main.c(49,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FunctionToAStructure.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 7 - Structures, Unions and Enumerated data types\FunctionToAStructure\Debug\FunctionToAStructure.exe

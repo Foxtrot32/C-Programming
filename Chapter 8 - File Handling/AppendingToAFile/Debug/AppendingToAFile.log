@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 8 - File Handling\AppendingToAFile\main.c(22,6): warning C4013: 'gets' undefined; assuming extern returning int
+  AppendingToAFile.vcxproj -> C:\Rohan S Gurumurthy\2nd Semester\PPS\C Progamming\Basic Programs\Chapter 8 - File Handling\AppendingToAFile\Debug\AppendingToAFile.exe

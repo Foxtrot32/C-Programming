@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\SubStringRight\main.c(14,6): warning C4013: 'gets' undefined; assuming extern returning int
+  SubStringRight.vcxproj -> C:\Rohan S Gurumurthy\Programming\C Progamming\Basic Programs\Chapter 5\SubStringRight\Debug\SubStringRight.exe
